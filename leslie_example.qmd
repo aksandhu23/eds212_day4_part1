@@ -21,6 +21,8 @@ insect_leslie
 ```{r}
 # Initial Condition 
 insect_y0 <- c(12000, 700, 500)
+
+insect_y0
 ```
 
 ```{r}
